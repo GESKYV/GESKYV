@@ -34,8 +34,20 @@ I’m passionate about using data to drive **evidence‑based decision‑making*
 
 ## 📂 Highlighted Projects
 
+### 🔹 Pneumonia Prediction from Chest X-ray Images Using Deep Learning
+Development of an end-to-end data science pipeline for automated pneumonia detection from chest X-ray images, including data exploration and preprocessing, image augmentation, CNN modeling, medical-focused evaluation (recall-oriented), model interpretability, and a formal Go/No-Go decision prior to deployment, following CRISP-DM best practices and ethical guidelines for medical AI.
+
+### 🔹 Spam Detection with Deep Feature Reduction (Autoencoder + NLP Pipeline)
+Developed a high‑performance SMS spam detection system using text preprocessing, TF‑IDF vectorization, and deep feature reduction through an autoencoder. The model achieves strong results on the UCI SMS Spam Collection dataset, demonstrating the effectiveness of hybrid approaches that combine classical NLP techniques with Deep Learning.
+
 ### 🔹 Predictive Analytics: Los Angeles Crime Patterns  
 Machine learning project identifying high‑risk locations, time windows, and victim profiles. Delivered data‑driven prevention recommendations.
+
+### 🔹  Multivariate Analysis & Segmentation of High‑Risk Credit Card Clients
+Conducted multivariate analysis (PCA, MCA) and clustering (K‑Means, GMM) on the UCI Credit Card Default dataset to identify client segments at risk of default. The project combines dimensionality reduction and behavioral segmentation to uncover key financial and demographic drivers of credit risk and support data‑driven credit decision‑making.
+
+### 🔹  Data Quality Validation for Bank Telemarketing Campaigns
+Developed a structured data‑quality validation pipeline for the Bank Marketing dataset, including source verification, descriptive analysis, anomaly detection, business‑rule checks, and automated validation with Pandera. The goal is to ensure consistent, reliable, and analysis‑ready data before performing advanced analytics or predictive modeling.
 
 ### 🔹 AWS Application Deployment  
 Built and deployed a fully functional application on AWS (March 2025).
