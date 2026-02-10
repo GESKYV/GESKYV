@@ -2,7 +2,7 @@
 📍 Ottawa, ON | 📊 Applied Data Science | 🌱 Environment & Geospatial Background
 
 Welcome to my GitHub!  
-I’m an **Applied Data Science student** with strong skills in **Python, SQL, Java, R, statistical modeling, machine learning, and data visualization**.  
+I’m an **Applied Data Science student in the final stage of the program** with strong skills in **Python, SQL, Java, R, statistical modeling, machine learning, and data visualization**.  
 I’m passionate about using data to drive **evidence‑based decision‑making**, particularly in areas related to **public policy, research, and environmental sustainability**.
 
 ---
